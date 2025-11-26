@@ -1,0 +1,29 @@
+body {
+  font-family: -apple-system, system-ui, sans-serif;
+  margin: 20px;
+  background: #ffffff;
+  color: #222;
+}
+
+h1 {
+  font-size: 26px;
+  margin-bottom: 12px;
+}
+
+#log {
+  white-space: pre-wrap;
+  font-family: monospace;
+  margin-top: 12px;
+  color: #666;
+}
+
+.badge {
+  padding: 6px 10px;
+  border-radius: 6px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.green { background: #2ecc71; }
+.yellow { background: #f1c40f; color: #000; }
+.red { background: #e74c3c; }
